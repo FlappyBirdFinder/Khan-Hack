@@ -1,4 +1,4 @@
-# Khan-Hack
+# Khan Academy-Hack
 
 STEP 1 
 click on Script.js
