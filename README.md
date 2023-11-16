@@ -49,12 +49,12 @@ You should see this,
 HOW TO USE!
 
 
-Go to any Khan quiz or Test and go to inspect element 
+Go to any Khan quiz or Test and go to inspect element THEN GO TO CONSOLE 
 
 <img width="862" alt="image" src="https://github.com/FlappyBirdFinder/Khan-Hack/assets/131990039/7d6dd386-d19e-4442-b0ad-5df964b6548d">
 
 
-The way this code works is it will display the answer to the text you are on AND the next test answer. For example in this screen shot -4 is the answer and -21 is the next answer.
+The way this code works is it will display the answer to the text you are on AND the next test answer. For example in this screen shot -4 is the answer and -21 is the next answer. {Make sure you are on console not just inspect} 
 
 <img width="954" alt="image" src="https://github.com/FlappyBirdFinder/Khan-Hack/assets/131990039/681cc3fe-1dc2-4d01-a2db-5c306c630981">
 
